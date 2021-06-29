@@ -1,6 +1,8 @@
 # Screenshots
 
-<h4>Images is pulling directly from amazon website</h4>
+* <h4>Images is pulling directly from amazon website</h4>
+* <h4>Responsive Website</h4>
+* 10 products
 
  <br>
   
